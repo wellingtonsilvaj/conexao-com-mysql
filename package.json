@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "node_js_celk",
+  "version": "1.0.0",
+  "description": "cursonode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"error: no test specified\\\" && exit 1"
+  },
+  "author": "wellington",
+  "license": "ISC"
+}
